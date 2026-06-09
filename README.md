@@ -21,12 +21,12 @@ The **Hospital Management System** is a comprehensive Java-based application des
 ## Installation
 
 
-2. **Navigate to the project folder:**
+1. **Navigate to the project folder:**
     ```bash
     cd Hospital-Management-PF-Project
     ```
 
-3. **Compile and run the application:**
+2. **Compile and run the application:**
     ```bash
     javac Main.java
     java Main
@@ -41,9 +41,6 @@ The **Hospital Management System** is a comprehensive Java-based application des
 - Ensure proper input format and data integrity to avoid errors.
 
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 
 
