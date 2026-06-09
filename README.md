@@ -1,3 +1,4 @@
+
 # Hospital Management System
 
 ## Overview
@@ -39,6 +40,10 @@ The **Hospital Management System** is a comprehensive Java-based application des
 - Follow the on-screen prompts to perform various operations within each entity.
 
 - Ensure proper input format and data integrity to avoid errors.
+
+
+
+
 
 
 
